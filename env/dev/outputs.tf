@@ -1,0 +1,1 @@
+/home/stephane/dev/terraform/stacks/outputs.tf

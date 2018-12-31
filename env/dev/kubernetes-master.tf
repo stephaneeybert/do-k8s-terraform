@@ -1,0 +1,1 @@
+/home/stephane/dev/terraform/stacks/kubernetes-master.tf

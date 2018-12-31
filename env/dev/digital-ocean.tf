@@ -1,0 +1,1 @@
+/home/stephane/dev/terraform/providers/digital-ocean.tf
